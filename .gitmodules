@@ -1,0 +1,3 @@
+[submodule "themes/hissatsu"]
+	path = themes/hissatsu
+	url = git@github.com:Wizhi/hissatsu.git
